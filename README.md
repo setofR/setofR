@@ -1,5 +1,5 @@
 # about me
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+Hi i'm Rohan, I study computer science (in my free time)
 # projects
 Feature-rich discord arcade bot, wip
 # stats if you care about that
