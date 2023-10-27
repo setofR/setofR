@@ -22,6 +22,6 @@
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rohxn-o's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohxn-o&theme=nord&hide_border=true&include_all_commits=false&count_private=false" height="192px"/></a>
 
-  <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotify-readme-weld.vercel.app/api" alt="Current Spotify Song">
-</a>
+<div align="center">
+  <img src="https://spotify-readme-weld.vercel.app/api?theme=dark" alt="Widget with the current Spotify song"  />
+</div>
