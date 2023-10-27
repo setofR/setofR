@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=23&pause=1000&color=6C99F7&random=false&width=435&lines=hey+there!)](https://git.io/typing-svg)
 
 <table align="right">
- <tr><td><a href="https://github.com/rohxn-o/rohxn-o/tree/main/README.md"><img src="./assets/gb_flag.png" alt="UK flag" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/rohxn-o/rohxn-o/tree/main/README-gu.md"><img src="./assets/in_flag.png" alt="ભારતીય ધ્વજ" width="17px">  Gujarati</a></td></tr>
+ <tr><td><a href="https://github.com/rohxn-o/rohxn-o/tree/main/README.md"><img src="./assets/gb_flag.png" alt="UK flag" width="17px">English</a></td></tr>
+ <tr><td><a href="https://github.com/rohxn-o/rohxn-o/tree/main/README-gu.md"><img src="./assets/in_flag.png" alt="ભારતીય ધ્વજ" width="17px">Gujarati</a></td></tr>
 </table>
 
   <h2>about me</h2>
