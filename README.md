@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=23&pause=1000&color=6C99F7&center=true&vCenter=true&random=false&width=435&lines=hey+there!" alt="Typing SVG" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=23&pause=1000&color=6C99F7&center=true&vCenter=true&random=false&width=435&lines=hey+there!)](https://git.io/typing-svg)
 # rohan
 ➥ hey i'm rohan, a beginner programmer
 ➥ i'm an aspiring cs student
