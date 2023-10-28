@@ -10,7 +10,7 @@
     <p>
      ➥ hey i'm rohan, a beginner programmer <br>
      ➥ i'm an aspiring cs student <br>
-     ➥ i currently only know python (soon to expand!)
+     ➥ i currently only program in python (soon to expand!)
     </p>
 
   <h2>projects</h2>
