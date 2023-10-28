@@ -8,14 +8,14 @@
 
   <h2>Me!</h2>
     <p>
-     ➥ Hey I'm Rohan, a (beginner) programmer <br>
-     ➥ I'm an aspiring CS student <br>
-     ➥ I currently only program in Python (soon to expand!)
+     ‣ Hey I'm Rohan, a (beginner) programmer <br>
+     ‣ I'm an aspiring CS student <br>
+     ‣ I currently only program in Python (soon to expand!)
     </p>
 
   <h2>Projects</h2>
     <p>
-    ➥ <del> Hypixel Arcade Discord bot (WIP) </del>
+    ‣ <del> Hypixel Arcade Discord bot (WIP) </del>
     </p>
 
   <h2>Stats (if you care about that)</h2>
