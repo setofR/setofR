@@ -8,19 +8,19 @@
 
   <h2>Me!</h2>
     <p>
-     ➥ hey i'm rohan, a beginner programmer <br>
-     ➥ i'm an aspiring cs student <br>
-     ➥ i currently only program in python (soon to expand!)
+     ➥ Hey i'm rohan, a beginner programmer <br>
+     ➥ I'm an aspiring cs student <br>
+     ➥ I currently only program in python (soon to expand!)
     </p>
 
   <h2>Projects</h2>
     <p>
-    ➥ <del> hypixel arcade discord bot (wip) </del> <br>
+    ➥ <del> Hypixel Arcade Discord bot (WIP) </del> <br>
     ➥ N/A
     </p>
 
   <h2>Stats (if you care about that)</h2>
-  <p>(i have none lol)</p>
+  <p>(I have none lol)</p>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rohxn-o's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohxn-o&theme=nord&hide_border=true&include_all_commits=false&count_private=false" height="192px"/></a>
