@@ -15,8 +15,7 @@
 
   <h2>Projects</h2>
     <p>
-    ➥ <del> Hypixel Arcade Discord bot (WIP) </del> <br>
-    ➥ N/A
+    ➥ <del> Hypixel Arcade Discord bot (WIP) </del>
     </p>
 
   <h2>Stats (if you care about that)</h2>
