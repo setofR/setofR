@@ -6,16 +6,17 @@
  <tr><td><a href="https://github.com/rohxn-o/rohxn-o/tree/main/README-gu.md"><img src="./assets/in_flag.png" alt="ભારતીય ધ્વજ" width="17px"> Gujarati</a></td></tr>
 </table>
 
-  <h2>about me</h2>
+  <h2>Me!</h2>
     <p>
      ➥ hey i'm rohan, a beginner programmer <br>
      ➥ i'm an aspiring cs student <br>
      ➥ i currently only program in python (soon to expand!)
     </p>
 
-  <h2>projects</h2>
+  <h2>Projects</h2>
     <p>
-    ➥ hypixel arcade discord bot (wip)
+    ➥ ~~hypixel arcade discord bot (wip)~~
+    ➥ N/A
     </p>
 
   <h2>stats if you care about that</h2>
