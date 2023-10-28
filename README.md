@@ -8,7 +8,7 @@
 
   <h2>Me!</h2>
     <p>
-     ➥ Hey i'm rohan, a (beginner) programmer <br>
+     ➥ Hey I'm Rohan, a (beginner) programmer <br>
      ➥ I'm an aspiring CS student <br>
      ➥ I currently only program in python (soon to expand!)
     </p>
