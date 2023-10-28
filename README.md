@@ -19,7 +19,7 @@
     ➥ N/A
     </p>
 
-  <h2>Stats (if you care about that)t</h2>
+  <h2>Stats (if you care about that)</h2>
   <p>(i have none lol)</p>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
