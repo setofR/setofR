@@ -1,4 +1,4 @@
-<img alight="center" src="https://68.media.tumblr.com/7b3984f642b896fa02847e316571916f/tumblr_osuq7ktrbX1uf9tyzo1_500.gif" alt="Daniel Caesar Gif" />
+<img alight="center" src="https://68.media.tumblr.com/7b3984f642b896fa02847e316571916f/tumblr_osuq7ktrbX1uf9tyzo1_500.gif" height="180" alt="Daniel Caesar Gif" />
 
 <table align="right">
  <tr><td><a href="https://github.com/rohxn-o/rohxn-o/tree/main/README.md"><img src="./assets/gb_flag.png" alt="UK flag" width="17px"> English</a></td></tr>
