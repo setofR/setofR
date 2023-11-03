@@ -16,13 +16,11 @@
 
   <h2>Projects</h2>
     <p>
-    ‣ <del> Hypixel Arcade Discord bot (WIP) </del>
+    ‣ <del> Hypixel Arcade Discord Bot</del>
     </p>
 
   <h2>Stats (if you care about that)</h2>
-  <p>(I have none lol)</p>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rohxn-o's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohxn-o&theme=nord&hide_border=true&include_all_commits=false&count_private=false" height="192px"/></a>
 
 <h2 align="left">Either coding in or learning</h2>
