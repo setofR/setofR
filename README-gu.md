@@ -16,9 +16,6 @@
     </p>
 
   <h2>GitHub આંકડાશાસ્ત્ર</h2>
-  <p>(I have none lol)</p>
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rohxn-o's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohxn-o&theme=nord&hide_border=true&include_all_commits=false&count_private=false" height="192px"/></a>
 
 <h2 align="left">હું (નીચે જુઓ) માં કોડ કરું અને શીખું છું</h2>
