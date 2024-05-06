@@ -7,15 +7,16 @@
     <p>
      ‣ હે, મારું નામ રોહન છે અને હું બિગિનર પ્રોગ્રેમર છું<br>
      ‣ હું એક કમ્પ્યુટિંગ વિદ્યાર્થી બનવાની આશા રાખું છું<br>
-     ‣ હું Python માં પ્રોગ્રામ કરું છું
+     ‣ હું પાઇથનમાં પ્રોગ્રામ કરું છું
     </p>
 
-  <h2>પ્રોજેક્ટ્સ</h2>
+  <h2>મહત્વાકાંક્ષા</h2>
     <p>
-    ‣ <del> Hypixel Arcade Discord bot (WIP) </del>
+    ‣ <del> હાઇપિક્સે આર્કેડ ડિસકોર્ડ બોટ  </del><br>
+    ‣ વેબસાઇટ
     </p>
 
-  <h2>GitHub આંકડાશાસ્ત્ર</h2>
+  <h2>ગિટહબ સ્ટેટ્સ</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rohxn-o's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohxn-o&theme=nord&hide_border=true&include_all_commits=false&count_private=false" height="192px"/></a>
 
 <h2 align="left">હું (નીચે જુઓ) માં કોડ કરું અને શીખું છું</h2>
