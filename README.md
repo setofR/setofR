@@ -1,5 +1,5 @@
 <p align="center">
- <img alight="center" src="https://68.media.tumblr.com/7b3984f642b896fa02847e316571916f/tumblr_osuq7ktrbX1uf9tyzo1_500.gif" height="180" alt="Daniel Caesar Gif" />
+ <!-- img alight="center" src="https://68.media.tumblr.com/7b3984f642b896fa02847e316571916f/tumblr_osuq7ktrbX1uf9tyzo1_500.gif" height="180" alt="Daniel Caesar Gif" /-->
 </p>
 
 <table align="right">
