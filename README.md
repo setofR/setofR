@@ -16,7 +16,7 @@
 
   <h2>Projects</h2>
     <p>
-    ‣ <del> Hypixel Arcade Discord Bot</del>
+    ‣ <del> Hypixel Arcade Discord Bot</del> <br>
     ‣ B*let (shh)
     </p>
 
