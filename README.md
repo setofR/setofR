@@ -11,13 +11,13 @@
     <p>
      ‣ Hey I'm Rohan, a (beginner) programmer <br>
      ‣ I'm an aspiring CS student <br>
-     ‣ I currently only program in Python (soon to expand!)
+     ‣ I'm doing my GCSEs rn!
     </p>
 
   <h2>Projects</h2>
     <p>
     ‣ <del> Hypixel Arcade Discord Bot</del> <br>
-    ‣ B*let (shh)
+    ‣ My Website
     </p>
 
   <h2>Stats (if you care about that)</h2>
