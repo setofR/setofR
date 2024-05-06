@@ -20,7 +20,7 @@
     ‣ My Website
     </p>
 
-  <h2>Stats (if you care about that)</h2>
+  <h2>Stats</h2>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rohxn-o's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohxn-o&theme=nord&hide_border=true&include_all_commits=false&count_private=false" height="192px"/></a>
 
