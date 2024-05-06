@@ -17,6 +17,7 @@
   <h2>Projects</h2>
     <p>
     ‣ <del> Hypixel Arcade Discord Bot</del>
+    ‣ B*let (shh)
     </p>
 
   <h2>Stats (if you care about that)</h2>
