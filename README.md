@@ -13,7 +13,7 @@
     <p>
      ‣ Hey I'm Rohan, a (beginner) programmer <br>
      ‣ I'm an aspiring CS student <br>
-     ‣ I'm doing my GCSEs rn!
+     ‣ I'm doing my GCSEs rn
     </p>
 
   <h2>Projects</h2>
