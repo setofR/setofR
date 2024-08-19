@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
  <!-- img alight="center" src="https://68.media.tumblr.com/7b3984f642b896fa02847e316571916f/tumblr_osuq7ktrbX1uf9tyzo1_500.gif" height="180" alt="Daniel Caesar Gif" /-->
 </p>
 
@@ -31,5 +31,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <<img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
 </div>
