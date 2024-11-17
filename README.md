@@ -15,7 +15,7 @@
   <h2>Projects</h2>
     <p>
     ‣ <del> Hypixel Arcade Discord Bot</del> <br>
-    ‣ My Website
+    ‣ My Website <br>
     ‣ Tower Defence Game
     </p>
 
