@@ -16,6 +16,7 @@
     <p>
     ‣ <del> Hypixel Arcade Discord Bot</del> <br>
     ‣ My Website
+    ‣ Tower Defence Game
     </p>
 
   <h2>Stats</h2>
