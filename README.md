@@ -7,12 +7,12 @@
  <tr><td><a href="https://github.com/rohxn-o/rohxn-o/tree/main/README-gu.md"><img src="./assets/in_flag.png" alt="ભારતીય ધ્વજ" width="17px"> Gujarati</a></td></tr>
 </table>
 
-  <h2>Me!</h2>
+  <h2>About Me</h2>
     <p>
      ‣ update
     </p>
 
-  <h2>Projects</h2>
+  <h2>My Projects</h2>
     <p>
     ‣ <del> Hypixel Arcade Discord Bot</del> <br>
     ‣ My Website <br>
@@ -23,7 +23,7 @@
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rohxn-o's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohxn-o&theme=nord&hide_border=true&include_all_commits=false&count_private=false" height="192px"/></a>
 
-<h2 align="left">Workspaces</h2>
+<h2 align="left">Work Environments</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
