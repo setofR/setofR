@@ -3,6 +3,8 @@
  <tr><td><a href="https://github.com/rohxn-o/rohxn-o/tree/main/README-gu.md"><img src="./assets/in_flag.png" alt="ભારતીય ધ્વજ" width="17px"> ગુજરાતી</a></td></tr>
 </table>
 
+<h1>This page is out of date.</h1>
+
   <h2>હું!</h2>
     <p>
      ‣ હે, મારું નામ રોહન છે<br>
