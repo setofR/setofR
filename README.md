@@ -1,7 +1,3 @@
- <p align="center">
- <!-- img alight="center" src="https://68.media.tumblr.com/7b3984f642b896fa02847e316571916f/tumblr_osuq7ktrbX1uf9tyzo1_500.gif" height="180" alt="Daniel Caesar Gif" /-->
-</p>
-
 <table align="right">
  <tr><td><a href="https://github.com/rohxn-o/rohxn-o/tree/main/README.md"><img src="./assets/gb_flag.png" alt="UK flag" width="17px"> English</a></td></tr>
  <tr><td><a href="https://github.com/rohxn-o/rohxn-o/tree/main/README-gu.md"><img src="./assets/in_flag.png" alt="ભારતીય ધ્વજ" width="17px"> Gujarati</a></td></tr>
