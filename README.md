@@ -3,11 +3,6 @@
  <tr><td><a href="https://github.com/rohxn-o/rohxn-o/tree/main/README-gu.md"><img src="./assets/in_flag.png" alt="ભારતીય ધ્વજ" width="17px"> Gujarati</a></td></tr>
 </table>
 
-  <h2>About Me</h2>
-    <p>
-     ‣ update
-    </p>
-
   <h2>My Projects</h2>
     <p>
     ‣ ...
