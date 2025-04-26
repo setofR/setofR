@@ -10,9 +10,7 @@
 
   <h2>My Projects</h2>
     <p>
-    ‣ <del> Hypixel Arcade Discord Bot</del> <br>
-    ‣ My Website <br>
-    ‣ TD Game
+    ‣ ...
     </p>
 
   <h2>Stats</h2>
