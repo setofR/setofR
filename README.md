@@ -23,4 +23,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=apple" height="40" alt="apple logo"  />
+  <img width="12" />
 </div>
