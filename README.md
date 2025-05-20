@@ -6,7 +6,9 @@
 -->
 
 
-## $$ \begin{bmatrix}welcome!! \\\ @setofR \end{bmatrix} $$
+## Welcome Matrix
+
+![Matrix](https://latex.codecogs.com/png.latex?%5Cbegin%7Bbmatrix%7Dwelcome!!%20%5C%5C%20%40setofR%5Cend%7Bbmatrix%7D)
 
 ## Projects
 
