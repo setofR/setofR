@@ -5,7 +5,7 @@
 
   <h2>My Projects</h2>
     <p>
-    ‣ ...
+    ‣ StarGuard
     </p>
 
   <h2>Stats</h2>
