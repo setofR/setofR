@@ -5,8 +5,9 @@
 </table>
 -->
 
-
-<img src="https://latex.codecogs.com/svg.image?\begin{bmatrix}welcome!!\\@setofR\end{bmatrix}" alt="matrix" height="100" align="center"/>
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.image?\begin{bmatrix}welcome!!\\@setofR\end{bmatrix}" alt="matrix" height="80"/>
+</p>
 
 ## Projects
 
