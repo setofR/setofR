@@ -11,7 +11,7 @@
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohxn-o&theme=default&show_icons=true&hide_border=true&count_private=true&hide=stars,prs" alt="rohxn-o's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rohxn-o&theme=graywhite&show_icons=true&hide_border=true&count_private=true&hide=stars,prs" alt="rohxn-o's GitHub Stats" />
 
 ## Work Environments
 
