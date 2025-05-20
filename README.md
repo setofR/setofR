@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
-  <img src="https://latex.codecogs.com/svg.image?\begin{bmatrix}welcome!!\\@setofR\end{bmatrix}" alt="matrix" height="80"/>
+  <img src="https://latex.codecogs.com/svg.image?\begin{bmatrix}\text{Welcome\quad to\quad my\quad page}\\@setofR\end{bmatrix}" alt="matrix" height="100"/>
 </p>
 
 ## Projects
