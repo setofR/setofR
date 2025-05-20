@@ -5,7 +5,9 @@
 </table>
 -->
 
-$\begin{bmatrix}A1 &A2 & A3\\A4 & A5 & A6 \end{bmatrix}$
+$$
+\begin{bmatrix}A1 &A2 & A3\\A4 & A5 & A$6 \end{bmatrix}
+$$
 
 
 ## Projects
