@@ -6,7 +6,7 @@
 -->
 
 
-<img src="https://latex.codecogs.com/svg.image?\begin{bmatrix}welcome!!\\@setofR\end{bmatrix}" alt="matrix" height="60"/>
+<img src="https://latex.codecogs.com/svg.image?\begin{bmatrix}welcome!!\\@setofR\end{bmatrix}" alt="matrix" height="100" align="center"/>
 
 ## Projects
 
