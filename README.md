@@ -12,6 +12,8 @@
 ## Projects
 
 - [ ] StarGuard
+- [ ] Website
+- [ ] Blog (ugh)
 
 ## Stats
 
