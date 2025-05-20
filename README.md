@@ -6,9 +6,7 @@
 -->
 
 
-$$
-\begin{bmatrix}welcome!! \\\ @setofR \end{bmatrix}
-$$
+$$ \begin{bmatrix}welcome!! \\\ @setofR \end{bmatrix} $$
 
 ## Projects
 
