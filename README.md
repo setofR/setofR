@@ -12,7 +12,7 @@
 ## Projects
 
 - [ ] StarGuard
-- [-] Blog (ugh)
+- [ ] Blog (ugh)
 - [x] ~~Website~~ (for now)
 
 ## Stats
