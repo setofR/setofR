@@ -13,7 +13,7 @@
 
 - [ ] StarGuard
 - [ ] Blog (ugh)
-- [x] ~~Website~~ (for now)
+- [x] ~~Website~~ ^(for now)^
 
 ## Stats
 
