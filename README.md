@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
-  <img src="assets/welcome.png" alt="welcome to my page!" height="100"/>
+  <img src="assets/welcome.png" alt="welcome to my page!" style="max-width: 100%; height: auto;" />
 </p>
 
 ## Projects
