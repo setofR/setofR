@@ -6,7 +6,10 @@
 -->
 
 <p align="center">
-  <img src="https://latex.codecogs.com/svg.image?\begin%7Bbmatrix%7D\text%7Bwelcome%20to%20my%20page%7D%20%5C%5C%20%40setofR\end%7Bbmatrix%7D" alt="uhhh why's it not loading?" height="100"/>
+  <svg viewBox="0 0 400 100" fill="currentColor" xmlns="http://www.w3.org/2000/svg" width="300">
+    <text x="10" y="50" font-size="20">[ Welcome to my page ]</text>
+    <text x="10" y="80" font-size="20">[    @setofR         ]</text>
+  </svg>
 </p>
 
 ## Projects
