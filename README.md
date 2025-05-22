@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
-  <img src="https://latex.codecogs.com/svg.image?\begin%7Bbmatrix%7D\text%7BWelcome%20to%20my%20page%7D%20%5C%5C%20%40setofR\end%7Bbmatrix%7D" alt="matrix" height="100"/>
+  <img src="https://latex.codecogs.com/svg.image?\begin%7Bbmatrix%7D\text%7Bwelcome%20to%20my%20page!%7D%20%5C%5C%20%40setofR\end%7Bbmatrix%7D" alt="matrix" height="100"/>
 </p>
 
 ## Projects
