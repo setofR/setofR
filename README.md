@@ -5,6 +5,10 @@
 </table>
 -->
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=rohxn-o&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 <p align="center">
   <img src="assets/welcome.png" alt="welcome to my page!" style="max-width: 100%; height: auto;" />
 </p>
@@ -17,6 +21,7 @@
 ## Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=setofr&theme=graywhite&show_icons=true&hide_border=true&count_private=true&hide=stars,prs" alt="rohxn-o's GitHub Stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=setofr&theme=default&hide_border=true" alt="GitHub Streak" />
 
 ## Work Environments
 
