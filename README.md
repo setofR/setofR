@@ -9,10 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=rohxn-o&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<!--
 <p align="center">
   <img src="assets/welcome.png" alt="welcome to my page!" style="max-width: 100%; height: auto;" />
 </p>
-
+-->
 ## Projects
 
 - [ ] StarGuard
