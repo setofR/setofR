@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://latex.codecogs.com/svg.latex?\begin{bmatrix}@setofR\end{bmatrix}" 
+  <img src="https://latex.codecogs.com/svg.latex?\begin{bmatrix}@setof\mathbb{R}\end{bmatrix}" 
        alt="[@setofR]" 
        width="300" 
    />
